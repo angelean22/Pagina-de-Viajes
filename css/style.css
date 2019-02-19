@@ -1,0 +1,33 @@
+.img-nav {
+    margin: 10px;
+    border-radius: 30px;
+    width: 50px;
+}
+
+.title {
+    font-size: 30px;
+
+}
+
+.bordes {
+    margin-top: 50px;
+}
+
+.panel-centro {
+    padding: 30px;
+}
+
+.icon-size {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.img-perfil {
+    max-height:"300px";
+}
+
+@media (max-width:"532px") {
+    .title {
+        font-size: 10px;
+    }
+}
